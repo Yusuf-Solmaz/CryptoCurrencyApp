@@ -1,4 +1,4 @@
-package com.yusuf.cryptocurrencyapp;
+package com.yusuf.cryptocurrencyapp.dao;
 
 
 import com.google.gson.annotations.SerializedName;
