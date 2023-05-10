@@ -1,6 +1,6 @@
 package com.yusuf.cryptocurrencyapp.service;
 
-import com.yusuf.cryptocurrencyapp.Crypto;
+import com.yusuf.cryptocurrencyapp.dao.Crypto;
 
 import java.util.List;
 
