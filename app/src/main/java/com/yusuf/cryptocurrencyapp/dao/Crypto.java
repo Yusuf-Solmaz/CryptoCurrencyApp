@@ -7,8 +7,24 @@ public class Crypto {
 
 
     @SerializedName("currency")
-    String currency;
+    private String currency;
 
     @SerializedName("price")
-    String price;
+    private String price;
+
+    public String getCurrency() {
+        return currency;
+    }
+
+    public void setCurrency(String currency) {
+        this.currency = currency;
+    }
+
+    public String getPrice() {
+        return price;
+    }
+
+    public void setPrice(String price) {
+        this.price = price;
+    }
 }
